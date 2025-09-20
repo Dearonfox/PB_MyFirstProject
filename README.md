@@ -1,2 +1,2 @@
 # PB_MyFirstProject
-PB실
+PB실습
